@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Teeth and beyond..",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "All about Preventive Dentistry .. a dentist's view.. ",
+    "siteUrl": "http://www.dental.intellisupplies.com/",
+    "image": "/assets/nick-fewings-bpdjlwz_bog-unsplash.jpg",
+    "twitterUsername": "@intellisupplies"
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "UA-80474408-1"
 }
