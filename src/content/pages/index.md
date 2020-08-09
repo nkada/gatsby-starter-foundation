@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: Teeth and beyond..
+title: Teeth & beyond..
 tagline: prevention is better than cure..
 featuredImage: /assets/nick-fewings-bpdjlwz_bog-unsplash.jpg
 cta:
